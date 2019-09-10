@@ -1,0 +1,15 @@
+
+<response version-api="2.0" >
+    <value>
+        <books>
+            <book available="20" id="1">
+                <title>Don Xijote</title>
+                <author id="1">Manuel De Cervantes</author>
+            </book>
+            <book available="14" id="2">
+                <title>Catcher in the Rye</title>
+                <author id="2">JD Salinger</author>
+            </book>
+        </books>
+    </value>
+</response>
